@@ -1,6 +1,7 @@
 # 锦匣（JinXiaWinToolBox）
     
-    
+[【中文说明】]()    [【English Description】]()    
+  
 **下载 [v1.0]**   
 - 
   即将问世。
@@ -11,7 +12,7 @@
    
 **说明**   
 -   
-锦匣：Windows轻量工具集，让操作更高效。   
+锦匣：Windows轻量工具集。   
 当前版本包含以下工具：      
     
 **前台工具**   
@@ -70,14 +71,56 @@
   
 **历史版本**   
 -   
-　**[v1.0版]()**　2021/01/19
+　**v1.0版**　2021/01
 
  
    
 **单体工具链接**   
 -   
+　如果只想要工具集中的某一个工具，可以关闭其他的功能，或者选择下载单体工具的链接。
+- [调色板](https://github.com/tp1415926535/ColorPanel)
+- [窗顶](https://github.com/tp1415926535/TopTool)
+- [速搜](https://github.com/tp1415926535/QuickSearchTool)
+- [性能栏](https://github.com/tp1415926535/PerformanceDisplayWindow)
+- [日程](https://github.com/tp1415926535/ScheduleRemindNote)
 
- 
- 
- 
- 
+<br><br><br><br><br><br><br><br>
+
+ # JinXia (WinToolBox)
+    
+**Download [v1.0]**  
+-  
+- Download Link1: [GitHub]()   
+- Download Link2: [gitee]()   
+- Download Link3: [LAN Zou Yun]()  
+
+**Explanation**  
+-  
+JinXia: Windows lightweight toolset.
+The current version includes the following tools:
+
+**Front desk tools**     
+- ColorPalette: color matching, color format, color taking
+- TextComparator: generate text difference results
+- Ruler: real size, arbitrary measurement, length conversion
+
+**Background tools**   
+- TopTool: top or cancel, multi top mode
+- QuickSearch: website search, open file (folder), web address, automatic paste
+- PerformanceDisaplay: real time CPU and memory display, self changing color
+- ScheduleNote: time period task prompt, automatic switch
+  
+   
+**Historical version**
+-  
+**v1.0** 2021 / 01
+  
+  
+**Single tool link**
+-
+If you only want one tool in the tool set, you can turn off other functions, or select the link to download individual tools.
+- [ColorPalette](https://github.com/tp1415926535/ColorPanel)
+- [TopTool](https://github.com/tp1415926535/TopTool)
+- [QuickSearch](https://github.com/tp1415926535/QuickSearchTool)
+- [PerformanceDisaplay](https://github.com/tp1415926535/PerformanceDisplayWindow)
+- [ScheduleNote](https://github.com/tp1415926535/ScheduleRemindNote)
