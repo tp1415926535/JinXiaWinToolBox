@@ -150,7 +150,9 @@ The current version includes the following tools:
 ![PerformanceDisaplay](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%80%A7%E8%83%BD%E6%A0%8F%20%E8%8B%B1.png)   
 
 * ScheduleNote    
+ NoteForm   
 ![ScheduleNote](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%97%A5%E7%A8%8B%20%E8%8B%B1.png)   
+ Switch Task Tips   
 ![Switch Task Tips](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%97%A5%E7%A8%8B%E5%88%87%E6%8D%A2.png)
 
    
