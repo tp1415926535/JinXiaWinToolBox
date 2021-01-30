@@ -2,6 +2,8 @@
     
 [【中文说明】](https://github.com/tp1415926535/JinXiaWinToolBox#%E9%94%A6%E5%8C%A3jinxiawintoolbox)    [【English Description】](https://github.com/tp1415926535/JinXiaWinToolBox#jinxia-wintoolbox)    
   
+<br>  
+  
 **下载 [v1.0]**   
 - 
   即将问世。
@@ -71,12 +73,14 @@
 　完全找不到同款才自己开发的便签日程。    
 　可以预先设定一天的日程，就能像便签一样挂着只显示当前的任务，并且每到时间会自动通知并切换下一个任务。   
 　对于专注和规划生活非常有帮助。
-  
+ 
+<br>
+
 **历史版本**   
 -   
 　**v1.0版**　2021/01
 
- 
+<br>
    
 **单体工具链接**   
 -   
@@ -86,6 +90,7 @@
 - [速搜](https://github.com/tp1415926535/QuickSearchTool)
 - [性能栏](https://github.com/tp1415926535/PerformanceDisplayWindow)
 - [日程](https://github.com/tp1415926535/ScheduleRemindNote)
+---
 
 <br><br><br><br><br><br><br><br>
 
