@@ -1,6 +1,7 @@
 # 锦匣（JinXiaWinToolBox）
     
-[【中文说明】](https://github.com/tp1415926535/JinXiaWinToolBox#%E9%94%A6%E5%8C%A3jinxiawintoolbox)    [【English Description】](https://github.com/tp1415926535/JinXiaWinToolBox#jinxia-wintoolbox)    
+【中文说明[Github版](https://github.com/tp1415926535/JinXiaWinToolBox#%E9%94%A6%E5%8C%A3jinxiawintoolbox)/[Gitee版](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md#%E9%94%A6%E5%8C%A3jinxiawintoolbox)】
+[【English Description】](https://github.com/tp1415926535/JinXiaWinToolBox#jinxia-wintoolbox)   
   
 <br>  
 
