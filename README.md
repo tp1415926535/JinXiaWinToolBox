@@ -82,7 +82,9 @@
 　完全找不到同款才自己开发的便签日程。    
 　可以预先设定一天的日程，就能像便签一样挂着只显示当前的任务，并且每到时间会自动通知并切换下一个任务。双击日程还能显示当天日程分布。   
 　对于专注和规划生活非常有帮助。    
+ 日程界面：   
 ![日程界面](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%97%A5%E7%A8%8B.png)     
+ 切换提示：    
 ![切换日程提示](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%97%A5%E7%A8%8B%E5%88%87%E6%8D%A2.png)     
 <br>
 
@@ -150,15 +152,15 @@ The current version includes the following tools:
 ![PerformanceDisaplay](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%80%A7%E8%83%BD%E6%A0%8F%20%E8%8B%B1.png)   
 
 * ScheduleNote    
- NoteForm   
+ NoteForm:   
 ![ScheduleNote](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%97%A5%E7%A8%8B%20%E8%8B%B1.png)   
- Switch Task Tips   
+ Switch Task Tips:   
 ![Switch Task Tips](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E6%97%A5%E7%A8%8B%E5%88%87%E6%8D%A2.png)
 
    
 **Historical version**
 -  
-**v1.0** 2021/01
+　**v1.0** 2021/01
   
   
 **Single tool link**
