@@ -1,6 +1,6 @@
 # 锦匣（JinXiaWinToolBox）
     
-[【中文说明】]()    [【English Description】]()    
+[【中文说明】](https://github.com/tp1415926535/JinXiaWinToolBox#%E9%94%A6%E5%8C%A3jinxiawintoolbox)    [【English Description】](https://github.com/tp1415926535/JinXiaWinToolBox#jinxia-wintoolbox)    
   
 **下载 [v1.0]**   
 - 
@@ -9,6 +9,7 @@
 - 地址2：[Gitee]()   
 - 地址3：[蓝奏云]()   
    
+<br>
    
 **说明**   
 -   
@@ -26,7 +27,9 @@
 - 性能栏：实时CPU和内存显示，颜色自变   
 - 日程：  时间段任务提示，自动切换   
    
+<br>
    
+
 **设计理念**
 -   
 - **锦匣**  
@@ -113,12 +116,12 @@ The current version includes the following tools:
    
 **Historical version**
 -  
-**v1.0** 2021 / 01
+**v1.0** 2021/01
   
   
 **Single tool link**
 -
-If you only want one tool in the tool set, you can turn off other functions, or select the link to download individual tools.
+If you only want one tool in the tool set, you can turn off other functions, or select the link to download separate tool.
 - [ColorPalette](https://github.com/tp1415926535/ColorPanel)
 - [TopTool](https://github.com/tp1415926535/TopTool)
 - [QuickSearch](https://github.com/tp1415926535/QuickSearchTool)
