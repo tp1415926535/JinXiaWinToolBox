@@ -9,8 +9,8 @@
 **下载 [v1.0]**   
 - 
   即将问世。
-- 地址1：[Github]()   
-- 地址2：[Gitee]()   
+- 地址1：[Github](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.0.rar)   
+- 地址2：[Gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.0.rar)   
 - 地址3：[蓝奏云](https://wws.lanzous.com/iNLgkm96pda)   
    
 <br>
