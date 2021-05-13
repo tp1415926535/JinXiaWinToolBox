@@ -11,7 +11,7 @@
 
 - 地址1：[Github](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
 - 地址2：[Gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- 地址3：[蓝奏云](https://wwe.lanzoui.com/i0wT7p2gxlc)   
+- 地址3：[蓝奏云](https://wwe.lanzoui.com/iSq3Ep3djch)   
    
 <br>
    
@@ -120,7 +120,7 @@
 -  
 - Download Link1: [GitHub](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
 - Download Link2: [gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- Download Link3: [LAN Zou Yun](https://wwe.lanzoui.com/i0wT7p2gxlc)  
+- Download Link3: [LAN Zou Yun](https://wwe.lanzoui.com/iSq3Ep3djch)  
 
 **Introduce**  
 -  
