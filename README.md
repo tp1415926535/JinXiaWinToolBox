@@ -90,7 +90,7 @@
 
 **历史版本**   
 -   
-　**v1.1版**　2021/05/13 修复调色板闪退问题；优化比对空格显示；新增日程字体设置、设置页图标支持快速开关。    
+　**v1.1版**　2021/05/16 修复调色板闪退和热键问题；优化比对空格显示；新增日程字体设置、设置页图标支持快速开关。    
 　**v1.0版**　2021/01
 
 <br>
@@ -167,7 +167,7 @@ The current version includes the following tools:
    
 **Historical version**
 -  
-　**v1.1** 2021/05/13  Fix ColorPalette flashback; Optimize TextComparator space display; New schedule font setting and setting page's icon support quick switch.     
+　**v1.1** 2021/05/16  Fix ColorPalette flashback and ShortCut Problem; Optimize TextComparator space display; New schedule font setting and setting page's icon support quick switch.     
 　**v1.0** 2021/01
   
   
