@@ -11,7 +11,7 @@
 
 - 地址1：[Github](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
 - 地址2：[Gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- 地址3：[蓝奏云](https://wwe.lanzoui.com/iQz6fp6cffi)   
+- 地址3：[蓝奏云](https://wwe.lanzoui.com/iFaefp9uwyf)   
    
 <br>
    
@@ -90,7 +90,7 @@
 
 **历史版本**   
 -   
-　**v1.1版**　2021/05/16 修复调色板闪退和热键问题；优化比对空格显示；新增日程字体设置、设置页图标支持快速开关。    
+　**v1.1版**　2021/05/19 修复调色板闪退、热键、报毒问题；优化比对空格显示；新增日程字体设置、设置页图标支持快速开关。    
 　**v1.0版**　2021/01
 
 <br>
@@ -120,7 +120,7 @@
 -  
 - Download Link1: [GitHub](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
 - Download Link2: [gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- Download Link3: [LAN Zou Yun](https://wwe.lanzoui.com/iQz6fp6cffi)  
+- Download Link3: [LAN Zou Yun](https://wwe.lanzoui.com/iFaefp9uwyf)  
 
 **Introduce**  
 -  
@@ -167,7 +167,7 @@ The current version includes the following tools:
    
 **Historical version**
 -  
-　**v1.1** 2021/05/16  Fix ColorPalette flashback and ShortCut Problem; Optimize TextComparator space display; New schedule font setting and setting page's icon support quick switch.     
+　**v1.1** 2021/05/19  Fix ColorPalette flashback, ShortCut, Reported poison Problem; Optimize TextComparator space display; New schedule font setting and setting page's icon support quick switch.     
 　**v1.0** 2021/01
   
   
