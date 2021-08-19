@@ -9,9 +9,9 @@
 **下载 [v1.1]**   
 - 
 
-- 地址1：[Github](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- 地址2：[Gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- 地址3：[蓝奏云](https://wwe.lanzoui.com/iOYmfpa3hej)   
+- 地址1：[Github](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.2.rar)   
+- 地址2：[Gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.2.rar)   
+- 地址3：[蓝奏云](https://wwe.lanzoui.com/iLDnDsv8r6f)   
    
 <br>
    
@@ -89,7 +89,8 @@
 <br>
 
 **历史版本**   
--   
+-  
+　**v1.2版**　2021/08/19 大幅优化文本比对功能：支持拉伸布局、支持html格式文本对比、比例移至下方。    
 　**v1.1版**　2021/05/19 修复调色板闪退、热键、报毒问题；优化比对空格显示；新增日程字体设置、设置页图标支持快速开关。    
 　**v1.0版**　2021/01
 
@@ -118,9 +119,9 @@
     
 **Download [v1.1]**  
 -  
-- Download Link1: [GitHub](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- Download Link2: [gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.1.rar)   
-- Download Link3: [LAN Zou Yun](https://wwe.lanzoui.com/iOYmfpa3hej)  
+- Download Link1: [GitHub](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.2.rar)   
+- Download Link2: [gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.2.rar)   
+- Download Link3: [LAN Zou Yun](https://wwe.lanzoui.com/iLDnDsv8r6f)  
 
 **Introduce**  
 -  
@@ -167,6 +168,7 @@ The current version includes the following tools:
    
 **Historical version**
 -  
+　**v1.2** 2021/08/19  Significantly optimize TextComparator function: support for stretched layout and html formatted text comparison, moving the ratio to the bottom.    
 　**v1.1** 2021/05/19  Fix ColorPalette flashback, ShortCut, Reported poison Problem; Optimize TextComparator space display; New schedule font setting and setting page's icon support quick switch.     
 　**v1.0** 2021/01
   
