@@ -6,7 +6,7 @@
 
 ![启动动画](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E5%90%AF%E5%8A%A8.png)   
 
-**下载 [v1.1]**   
+**下载 [v1.2]**   
 - 
 
 - 地址1：[Github](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.2.rar)   
