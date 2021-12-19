@@ -118,7 +118,7 @@
  # JinXia (WinToolBox)
 ![Launch Animation](https://github.com/tp1415926535/JinXiaWinToolBox/blob/main/%E6%88%AA%E5%9B%BE/%E5%90%AF%E5%8A%A8%20%E8%8B%B1.png)  
     
-**Download [v1.1]**  
+**Download [v1.3]**  
 -  
 - Download Link1: [GitHub](https://github.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.3.rar)   
 - Download Link2: [gitee](https://gitee.com/tp1415926535/JinXiaWinToolBox/raw/main/%E9%94%A6%E5%8C%A3v1.3.rar)   
